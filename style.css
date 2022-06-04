@@ -16,7 +16,8 @@ html{
     min-height: 100vh;
     display: grid;
     place-items: center;
-    background-color: hsl(206, 92%, 94%);
+/*     background-color: hsl(206, 92%, 94%); */
+    background-image: linear-gradient(rgb(104, 209, 104),rgb(191, 191, 109),pink);
 
 }
 .innner-div{
