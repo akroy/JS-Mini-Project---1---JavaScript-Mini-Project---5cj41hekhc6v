@@ -9,7 +9,7 @@ const quizDB =[
 
     },
     {
-        question:"Q2: What is the full form of css",
+        question:"Q2: What is the full form of css?",
         a:" Hello to my land ",
         b:" hello text markup language",
         c:"Style sheet cascading",
@@ -18,7 +18,7 @@ const quizDB =[
 
     },
     {
-        question:"Q3: What is the full form of Sql",
+        question:"Q3: What is the full form of Sql?",
         a:" Structured query language ",
         b:" hello text markup language",
         c:"Hypertext markup language",
@@ -27,13 +27,22 @@ const quizDB =[
 
     },
     {
-        question:"Q4: What is the full form of RAM",
+        question:"Q4: What is the full form of RAM?",
         a:" Hello to my land ",
         b:" hello text markup language",
         c:"Random acces memory",
         d: "hyper test markup lang",
         ans: "ans3"
 
+    },
+    {
+        question:"Q5: What is the let ,const ,and var?",
+        a:" Hello to my land ",
+        b:" hello text markup language",
+        c:"Data Type in javascript",
+        d: "hyper test markup lang",
+        ans: "ans3"
+  
     }
 ];
 const question = document.querySelector('.question');
